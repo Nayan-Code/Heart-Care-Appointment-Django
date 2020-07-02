@@ -13,11 +13,11 @@ Installing
 
 open terminal and type
 
-https://github.com/devmahmud/Heart-Care-Django.git
+https://github.com/devmahmud/Heart-Care-Appointment-Django.git
 
 or simply download using the url below
 
-https://github.com/devmahmud/Heart-Care-Django.git
+https://github.com/devmahmud/Heart-Care-Appointment-Django.git
 
 To migrate the database open terminal in project directory and type
 
